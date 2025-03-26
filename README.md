@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin (in university)**
 
-- 📝 I will start writing articles about my experiences in the area [https://medium.com/@jullyensoares21](https://medium.com/@jullyensoares21)
+- 📝 I will start writing articles about my experiences in the area [[https://medium.com/@jullyensoares21](https://www.linkedin.com/in/jullyen/)]
 
 - 💬 Ask me about **focused, resilient and always hungry for knowledge.**
 
