@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **evolve in the language with useful projects to solve problems.**
 
-- 🌱 I’m currently learning **Java, Kotlin (in university)**
+- 🌱 I’m currently in **4º semester**
 
 - 📝 I will start writing articles about my experiences in the area [[https://medium.com/@jullyensoares21](https://www.linkedin.com/in/jullyen/)]
 
