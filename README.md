@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jullyen Soares</h1>
-<h3 align="center">I'm a civil engineer who decided to change career in 2021 and it worked out well. I'm a Python backend developer, now learning Java.</h3>
+<h3 align="center">I'm a civil engineer who decided to change career in 2021 and it worked out well. I'm a Python backend developer, And soon, I’ll be 100% full stack.</h3>
 
 - 🔭 I’m currently working for **evolve in the language with useful projects to solve problems.**
 
