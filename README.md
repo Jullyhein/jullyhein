@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently in **5º semester** and last !
 
-- 📝 I will start writing articles about my experiences in the area (https://www.linkedin.com/in/jullyen/)
+- 📝 I already writing articles about my experiences in the area (https://www.linkedin.com/in/jullyen/)
 
 - 💬 Ask me about **focused, resilient and always hungry for knowledge.**
 
